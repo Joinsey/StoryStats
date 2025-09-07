@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/assets/assets/assets
-  file_00000000802061fb8e6008cca49b2090.png" alt="StoryStats Banner" width="800"/>
+  <img src="file_00000000802061fb8e6008cca49b2090.png" alt="StoryStats Banner" width="800"/>
 </p>
 
 <h1 align="center">📚 StoryStats</h1>
